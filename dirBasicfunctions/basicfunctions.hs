@@ -19,10 +19,4 @@ conditionalDouble x = if (x`mod`2==0) then x else doubleThis x
 -- myPi because Haskell has it's own pi and it's not equal to 22/7 for some reason myPi /= pi
 myPi = 22/7
 
---Lists***
-
-
-
-
-
-main = print(sumtorial 45)
+main = print("Loaded Basic Functions")
