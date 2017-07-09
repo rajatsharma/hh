@@ -22,7 +22,7 @@ Short for Hello Haskell
 
 * Load file executable
 
-  `:r filename`
+  `:l filename`
 
 * If not available use this to build executable
 
@@ -31,3 +31,5 @@ Short for Hello Haskell
 * Call any function from the file by typing it's name. eg
 
   `sumtorial 5`
+
+* After Making changes to file use `:r` to reload changes
