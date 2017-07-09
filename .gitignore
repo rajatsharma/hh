@@ -1,0 +1,6 @@
+*
+*.exe
+!*.hs
+!*.gitignore
+!*.png
+!*.md
